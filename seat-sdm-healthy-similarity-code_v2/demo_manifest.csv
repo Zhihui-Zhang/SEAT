@@ -1,0 +1,4 @@
+task,all_map,healthy_map
+IMPLICIT_EMOTION,demo_inputs_optional/all1_MyTest_z.nii.gz,demo_inputs_optional/health1_MyTest_z.nii.gz
+SHIFT,demo_inputs_optional/all2_MyTest_z.nii.gz,demo_inputs_optional/health2_withsiripada_MyTest_z.nii.gz
+APPRAISAL,demo_inputs_optional/all3_MyTest_z.nii.gz,demo_inputs_optional/health3_MyTest_z.nii.gz

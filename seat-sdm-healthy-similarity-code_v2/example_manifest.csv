@@ -1,0 +1,4 @@
+task,all_map,healthy_map
+IMPLICIT_EMOTION,/path/to/all1_MyTest_z.nii.gz,/path/to/health1_MyTest_z.nii.gz
+SHIFT,/path/to/all2_MyTest_z.nii.gz,/path/to/health2_withsiripada_MyTest_z.nii.gz
+APPRAISAL,/path/to/all3_MyTest_z.nii.gz,/path/to/health3_MyTest_z.nii.gz
